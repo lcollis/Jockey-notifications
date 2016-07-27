@@ -1,0 +1,15 @@
+{
+  "name": "notifications_controller",
+  "version": "1.0.0",
+  "description": "",
+  "main": "notificationController.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "fcm-push-notif": "^1.1.1",
+    "firebase": "^3.2.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
